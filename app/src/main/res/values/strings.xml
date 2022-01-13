@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Hewan Pedia</string>
+    <string name="about_us">Biodata</string>
+    <string name="galery">Gallery Hewan</string>
+    // Layout
+    <string name="pilih_gambar">(Klik untuk membuka galeri)</string>
+    <string name="klik_profil">(Tekan Untuk Membuka Profil)</string>
+    <string name="daftar_ras_judul">Daftar Unggas</string>
+    <string name="kembali">Kembali</string>
+    <string name="itik"> Itik</string>
+    <string name="ayam"> Chicken</string>
+    <string name="puyuh"> Puyuh</string>
+    <string name="itik_list_title">Daftar Unggas</string>
+    <string name="ayam_list_title">Daftar Unggas</string>
+    <string name="puyuh_list_title">Daftar Unggas</string>
+    // Profil
+    <string name="nama">Nama :</string>
+    <string name="nim">NIM :</string>
+    <string name="prodi">Prodi :</string>
+    <string name="alamat">Alamat :</string>
+
+    // Data itik
+    <string name="itikbali_nama">Itik Bali</string>
+    <string name="itikbali_asal">Bali</string>
+    <string name="itikbali_deskripsi">Itik bali adalah varian itik lokal yang banyak dibudidaya di Pulau Bali dan Pulau Lombok.</string>
+    <string name="manila_nama">Manila</string>
+    <string name="manila_asal">Lombok</string>
+    <string name="kmanila_deskripsi">Itik manila adalah unggas air yang termasuk dalam keluarga (genus) Cairina.</string>
+    <string name="serati_nama">Serati</string>
+    <string name="serati_asal">Meksiko</string>
+    <string name="serati_deskripsi">Di Indonesia unggas ini adalah sepenuhnya hewan peliharaan, yang diternakkan terutama untuk dagingnya. Asal usul mentok peliharaan adalah dari Meksiko, Amerika Tengah dan Amerika Selatan, di mana populasi burung ini hidup alami dan liar di rawa-rawa berhutan dan wilayah berpaya di sekitar danau dan sungai; termasuk di hilir lembah Sungai Rio Grande di Texas. Populasi lepasan yang meliar (feral) juga dijumpai di Florida bagian selatan.</string>
+
+    // Data ayam
+    <string name="cemani_nama">Cemani</string>
+    <string name="cemani_asal">Temanggung</string>
+    <string name="cemani_deskripsi">Kerap dijual dengan harga yang fantastis yakni sekitar 25 jutaan Rupiah, menjadikan Ayam Cemani sebagai salah satu dari jenis-jenis ayam di Indonesia yang katanya cuma bisa dimiliki oleh orang “berduit” saja.</string>
+    <string name="pelung_nama">Jawa</string>
+    <string name="pelung_asal">Jawa, Indonesia</string>
+    <string name="pelung_deskripsi">This leopard is completely black because of its recessive phenotype or has regular spotted fur</string>
+    <string name="tukung_nama">Tukung</string>
+    <string name="tukung_asal">Indonesia</string>
+    <string name="tukung_deskripsi">Ayam Tukung merupakan salah satu dari jenis-jenis ayam di Indonesia yang cukup langka untuk ditemukan,Ayam Tukung merupakan salah satu dari jenis-jenis ayam di Indonesia yang cukup langka untuk ditemukan.</string>
+
+    // Data puyuh
+    <string name="puyuhbatu_nama">Puyuh Batu</string>
+    <string name="puyuhbatu_asal">Indonesia</string>
+    <string name="puyuhbatu_deskripsi">Ciri ciri dari burung puyuh batu yaitu bulunya berwarna hitam pekat dan dibagian leher ada pada bagian leher berwarna putih.</string>
+    <string name="puyuhjepang_nama">Puyuh Jepang</string>
+    <string name="puyuhjepang_asal">Indonesia</string>
+    <string name="puyuhjepang_deskripsi">Puyuh jepang akan bertelur pada usia 40-50 hari dengan bobot telur berkisar 8-12 gram.</string>
+    <string name="puyuhblaster_nama">Puyuh Blaster</string>
+    <string name="puyuhblaster_asal">Indonesia</string>
+    <string name="puyuhblaster_deskripsi">Keunggulan yang dimiliki dari puyuh blaster yaitu telur yang dihasilkan besar sekitar 12gram lebih dan bobot afkir yang dihasilkan bisa mencapai 200gram keatas.</string>
+
+    </resources>

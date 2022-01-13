@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Pedia Animals</string>
+    <string name="about_us">Biodata</string>
+    <string name="galery">Gallery Hewan</string>
+    // Layout
+    <string name="pilih_gambar">(Click to open gallery)</string>
+    <string name="klik_profil">(Tap To Open Profile)</string>
+    <string name="daftar_ras_judul">Poultry List</string>
+    <string name="kembali">Back</string>
+    <string name="itik"> Duck</string>
+    <string name="ayam">Chicken</string>
+    <string name="puyuh">Quail</string>
+    <string name="itik_list_title">List of Duck</string>
+    <string name="ayam_list_title">List of Chicken</string>
+    <string name="puyuh_list_title">List of Quail</string>
+    // Profil
+    <string name="nama">Name :</string>
+    <string name="nim">NIM :</string>
+    <string name="prodi">Major :</string>
+    <string name="alamat">Address :</string>
+
+    // Data Duck
+    <string name="itikbali_nama">Duck Bali</string>
+    <string name="itikbali_asal">Bali</string>
+    <string name="itikbali_deskripsi">Bali duck is a local duck variant that is widely cultivated on the islands of Bali and Lombok.</string>
+    <string name="manila_nama">Manila</string>
+    <string name="manila_asal">Lombok</string>
+    <string name="kmanila_deskripsi">The Manila duck is a waterfowl belonging to the Cairina family (genus).</string>
+    <string name="serati_nama">Serati</string>
+    <string name="serati_asal">Meksiko</string>
+    <string name="serati_deskripsi">In Indonesia these birds are completely domesticated, raised mainly for their meat. The origins of the domesticated mackerel are from Mexico, Central America and South America, where populations of this bird live naturally and wildly in forested marshes and marshy areas around lakes and rivers; including the lower reaches of the Rio Grande River valley in Texas. Wild wild populations are also found in southern Florida.</string>
+
+    // Data Chicken
+    <string name="cemani_nama">Cemani</string>
+    <string name="cemani_asal">Temanggung</string>
+    <string name="cemani_deskripsi">Often sold at a fantastic price, which is around 25 million Rupiah, making Ayam Cemani as one of the types of chicken in Indonesia which is said to only be owned by "money" people.</string>
+    <string name="pelung_nama">Jawa</string>
+    <string name="pelung_asal">Jawa, Indonesia</string>
+    <string name="pelung_deskripsi">This leopard is completely black because of its recessive phenotype or has regular spotted fur</string>
+    <string name="tukung_nama">Tukung</string>
+    <string name="tukung_asal">Indonesia</string>
+    <string name="tukung_deskripsi">Tukung chicken is one of the types of chicken in Indonesia which is quite rare to find, Tukung chicken is one of the types of chicken in Indonesia which is quite rare to find.</string>
+
+    // Data Quail
+    <string name="puyuhbatu_nama">Quail Batu</string>
+    <string name="puyuhbatu_asal">Indonesia</string>
+    <string name="puyuhbatu_deskripsi">The hallmark of the stone quail is its jet black feathers and the white neck on the neck.</string>
+    <string name="puyuhjepang_nama">Quail Jepang</string>
+    <string name="puyuhjepang_asal">Indonesia</string>
+    <string name="puyuhjepang_deskripsi">Japanese quail will lay eggs at the age of 40-50 days with egg weights ranging from 8-12 grams.</string>
+    <string name="puyuhblaster_nama">Quail Blaster</string>
+    <string name="puyuhblaster_asal">Indonesia</string>
+    <string name="puyuhblaster_deskripsi">The advantages of the blaster quail are that the eggs produced are more than 12 grams large and the reject weights produced can reach 200 grams and above..</string>
+ </resources>

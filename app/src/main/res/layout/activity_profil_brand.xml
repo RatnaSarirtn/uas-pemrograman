@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txMerek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JENIS AYAM"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+        android:layout_marginBottom="24dp"
+        />
+
+    <ImageView
+        android:id="@+id/gambarMotor"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_marginBottom="16dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/cemani" />
+
+    <TextView
+        android:id="@+id/txBrand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CEMANI"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        />
+
+    <TextView
+        android:id="@+id/txCc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/txDeskripsi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="Deskripsi Ayam"/>
+
+    <LinearLayout
+        android:layout_marginTop="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+    </LinearLayout>
+    <Button
+        android:id="@+id/btn_back_to_list"
+        android:layout_marginTop="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kembali"
+        />
+
+</LinearLayout>
